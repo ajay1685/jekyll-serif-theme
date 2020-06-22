@@ -1,4 +1,4 @@
-baseurl: 'https://ajay1685.github.io/jekyll-serif-theme/'
+baseurl: 'https://ajay1685.github.io/jekyll-serif-theme'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
